@@ -13,4 +13,4 @@ ImageToCoreInk [image_file|image_folder]
 ```
 
 2. Include the header file to your Arduino project.
-- [example](sample/arudino/sample_image.ino)
+- [example](https://github.com/ksasao/ImageToCoreInk/blob/main/sample/arduino/sample_image/sample_image.ino)
