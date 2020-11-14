@@ -1,10 +1,13 @@
 # ImageToCoreInk
-Image Converter for M5Stack CoreInk
+Image Converter for M5Stack CoreInk.
+See [this thread](https://twitter.com/ksasao/status/1327586531960258560).
 
-## Download binary
-- [win10-x86]()
-- [osx-x64]()
-- [linux-x64]()
+![Sample Image](https://pbs.twimg.com/media/EmyetL9UcAEb6Cw?format=jpg&name=large)
+
+## Download
+- [win10-x86](https://github.com/ksasao/ImageToCoreInk/releases/download/v0.0.1/ImageToCoreInk_win10-x64_0.0.1.zip)
+- [osx-x64](https://github.com/ksasao/ImageToCoreInk/releases/download/v0.0.1/ImageToCoreInk_osx_x64_0.0.1.zip)
+- [linux-x64](https://github.com/ksasao/ImageToCoreInk/releases/download/v0.0.1/ImageToCoreInk_linux-x64_0.0.1.zip)
 
 ## Usage
 1. Convert image file(s) to header file.
