@@ -5,7 +5,7 @@ The converter will automatically convert a full-color image to a dithered image.
 See [this thread](https://twitter.com/ksasao/status/1327586531960258560).
 
 
-![Sample Image](https://pbs.twimg.com/media/EmyetL9UcAEb6Cw?format=jpg&name=large)
+![Sample Image](https://pbs.twimg.com/media/Em1xMhXVgAIwkhM?format=jpg&name=large)
 
 ## Download
 - [win10-x86](https://github.com/ksasao/ImageToCoreInk/releases/download/v0.0.2/ImageToCoreInk_0.0.2_win10-x64.zip)
