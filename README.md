@@ -1,6 +1,9 @@
 # ImageToCoreInk
 Image Converter for M5Stack CoreInk.
+The converter will automatically convert a full-color image to a dithered image.
+
 See [this thread](https://twitter.com/ksasao/status/1327586531960258560).
+
 
 ![Sample Image](https://pbs.twimg.com/media/EmyetL9UcAEb6Cw?format=jpg&name=large)
 
@@ -14,6 +17,7 @@ See [this thread](https://twitter.com/ksasao/status/1327586531960258560).
 ```
 ImageToCoreInk [image_file|image_folder]
 ```
+Full color image (.PNG, .JPG, ...) will automatically be converted to dithered image.
 
 2. Include the header file to your Arduino project.
 - [example](https://github.com/ksasao/ImageToCoreInk/blob/main/sample/arduino/sample_image/sample_image.ino)
