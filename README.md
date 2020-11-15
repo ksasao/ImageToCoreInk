@@ -13,7 +13,7 @@ See [this thread](https://twitter.com/ksasao/status/1327586531960258560).
 - [linux-x64](https://github.com/ksasao/ImageToCoreInk/releases/download/v0.0.2/ImageToCoreInk_0.0.2_linux-x64.zip)
 
 ## Usage
-1. Convert image file(s) to a header file. 
+### 1. Convert image file(s) to a header file. 
 
 ```
 ImageToCoreInk [image_file|image_folder]
@@ -25,5 +25,5 @@ Supported image size:
 Supported image formats:
 - .jpg, .png, .bmp, .gif, .tga
 
-2. Include the header file to your Arduino project.
+### 2. Include the header file to your Arduino project.
 - [example](https://github.com/ksasao/ImageToCoreInk/blob/main/sample/arduino/sample_image/sample_image.ino)
